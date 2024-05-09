@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\bin\Debug\net8.0\AmazingFileVersionControl.ApiClients.deps.json
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\bin\Debug\net8.0\AmazingFileVersionControl.ApiClients.dll
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\bin\Debug\net8.0\AmazingFileVersionControl.ApiClients.pdb
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\bin\Debug\net8.0\AmazingFileVersionControl.Core.dll
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\bin\Debug\net8.0\AmazingFileVersionControl.Core.pdb
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.csproj.AssemblyReference.cache
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.AssemblyInfoInputs.cache
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.AssemblyInfo.cs
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingF.2A6DD958.Up2Date
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.dll
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\refint\AmazingFileVersionControl.ApiClients.dll
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.pdb
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\ref\AmazingFileVersionControl.ApiClients.dll
