@@ -3,6 +3,7 @@ using AmazingFileVersionControl.Core.Infrastructure;
 using MongoDB.Bson;
 using System;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Net.Http.Json;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -23,6 +24,11 @@ namespace AmazingFileVersionControl.ApiClients.ApiClients
 
             _httpClient = new HttpClient(handler);
             _baseUrl = baseUrl.TrimEnd('/');
+        }
+
+        public void SetToken(string token)
+        {
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
         }
 
         public async Task<string> UploadFileAsync(FileUploadDTO uploadRequest)
