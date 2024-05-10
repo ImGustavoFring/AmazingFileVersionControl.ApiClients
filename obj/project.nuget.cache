@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OULliVHrxTxQegp/GT2zObS1fu0txc9Nhq85CVtAm5wpfLG+FIKtsUMu8DYQoRZFYI/cTsN8WusAoQoUFLHfVA==",
+  "dgSpecHash": "kbJ0KFTFG2oO83cJHsApFW7nSfRjOlk0lMXpa5iDe0QK3lgckwH2vkzf9wAPDOIhJG101FEp0QFW8uJHg87b8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Documents\\Visual Studio Projects\\AmazingFileVersionControl\\AmazingFileVersionControl.ApiClients\\AmazingFileVersionControl.ApiClients.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\David\\.nuget\\packages\\mongodb.driver.core\\2.25.0\\mongodb.driver.core.2.25.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\mongodb.driver.gridfs\\2.25.0\\mongodb.driver.gridfs.2.25.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\mongodb.libmongocrypt\\1.8.2\\mongodb.libmongocrypt.1.8.2.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.2\\npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",

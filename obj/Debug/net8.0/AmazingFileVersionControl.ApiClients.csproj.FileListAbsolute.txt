@@ -13,3 +13,4 @@ C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\Amazin
 C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\refint\AmazingFileVersionControl.ApiClients.dll
 C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.pdb
 C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\ref\AmazingFileVersionControl.ApiClients.dll
+C:\Users\David\Documents\Visual Studio Projects\AmazingFileVersionControl\AmazingFileVersionControl.ApiClients\obj\Debug\net8.0\AmazingFileVersionControl.ApiClients.sourcelink.json
